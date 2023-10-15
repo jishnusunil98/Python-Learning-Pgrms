@@ -32,3 +32,5 @@
 # Python-Learning-Pgrms\oddoreven.py (Python pgrm for find a number odd or even)
 
 # Python-Learning-Pgrms\last digital div.py (Python pgrm for last digite of a num is divisible by 3)
+
+# Python-Learning-Pgrms\prime no. finder.py (Python pgrm for prime no finder in between 2 numbers)
