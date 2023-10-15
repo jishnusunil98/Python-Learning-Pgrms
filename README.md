@@ -7,4 +7,6 @@
 
 # Python-Learning-Pgrms\P1.py (Python print)
 
+# Python-Learning-Pgrms\P2.py (Python print)
+
 # Python-Learning-Pgrms\Pyn str.py (Python Strings)
