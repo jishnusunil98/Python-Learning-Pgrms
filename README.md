@@ -34,3 +34,5 @@
 # Python-Learning-Pgrms\last digital div.py (Python pgrm for last digite of a num is divisible by 3)
 
 # Python-Learning-Pgrms\prime no. finder.py (Python pgrm for prime no finder in between 2 numbers)
+
+# Python-Learning-Pgrms\Word finder.py (Python pgrm for word finder in a sentance)
