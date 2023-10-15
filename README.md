@@ -9,4 +9,6 @@
 
 # Python-Learning-Pgrms\P2.py (Python print)
 
+# Python-Learning-Pgrms\P3.py (Python input)
+
 # Python-Learning-Pgrms\Pyn str.py (Python Strings)
