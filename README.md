@@ -38,3 +38,5 @@
 # Python-Learning-Pgrms\Word finder.py (Python pgrm for word finder in a sentance)
 
 # Python-Learning-Pgrms\find vowls conts etc....py (Python pgrm for word find vowls conts etc....)
+
+# Python-Learning-Pgrms\SQLite (Python SQLite study)
