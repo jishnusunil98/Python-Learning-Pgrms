@@ -36,3 +36,5 @@
 # Python-Learning-Pgrms\prime no. finder.py (Python pgrm for prime no finder in between 2 numbers)
 
 # Python-Learning-Pgrms\Word finder.py (Python pgrm for word finder in a sentance)
+
+# Python-Learning-Pgrms\find vowls conts etc....py (Python pgrm for word find vowls conts etc....)
