@@ -12,3 +12,5 @@
 # Python-Learning-Pgrms\P3.py (Python input)
 
 # Python-Learning-Pgrms\Pyn str.py (Python Strings)
+
+# Python-Learning-Pgrms\Pyn PYN list.py (Python list)
