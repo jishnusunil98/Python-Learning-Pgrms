@@ -28,3 +28,5 @@
 # Python-Learning-Pgrms\avd cal.py (Python pgrm for advance calculator)
 
 # Python-Learning-Pgrms\inheritance.py (Python pgrm for inheritance)
+
+# Python-Learning-Pgrms\oddoreven.py (Python pgrm for find a number odd or even)
