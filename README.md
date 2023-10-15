@@ -30,3 +30,5 @@
 # Python-Learning-Pgrms\inheritance.py (Python pgrm for inheritance)
 
 # Python-Learning-Pgrms\oddoreven.py (Python pgrm for find a number odd or even)
+
+# Python-Learning-Pgrms\last digital div.py (Python pgrm for last digite of a num is divisible by 3)
