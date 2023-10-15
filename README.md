@@ -13,4 +13,6 @@
 
 # Python-Learning-Pgrms\Pyn str.py (Python Strings)
 
-# Python-Learning-Pgrms\Pyn PYN list.py (Python list)
+# Python-Learning-Pgrms\Pyn list.py (Python list)
+
+# Python-Learning-Pgrms\sidotle.py (Python triangle side finder)
