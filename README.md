@@ -42,3 +42,5 @@
 # Python-Learning-Pgrms\SQLite (Python SQLite study)
 
 # Python-Learning-Pgrms\GUI (Python GUI)
+
+# # Python-Learning-Pgrms\emi_calculator.py (Emi calculator)
